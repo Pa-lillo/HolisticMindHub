@@ -42,7 +42,7 @@ Developed a versatile **Python** script featuring distinct functions designed to
 ![Human EEG](/assets/img/eeg_human.webp)
 
 ###  Exploratory Data Analysis and Prediction of Lego Set Trends
-[Jupyer Notebook]
+[Jupyer Notebook](https://github.com/Pa-lillo/HolisticMindHub/blob/main/Projects/LegoSetsAnalysis/LegoThemesProject.ipynb)
 
 Conducted a comprehensive analysis of Lego sets spanning from 1950 to 2017 utilizing **Python**. The process encompassed data exploration, cleaning, visualization, and analytical tasks. Specific analyses included determining the percentage of licensed sets, identifying the most popular sets by year, assessing the number of unique sets, and calculating the average number of blocks released annually. The project culminated in the implementation of a polynomial regression model to predict the number of unique sets and average blocks expected for the years 2018-2030.
 
