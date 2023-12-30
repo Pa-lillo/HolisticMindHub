@@ -25,7 +25,7 @@ Spearheaded a scientific article focusing on the application of data science and
 ![Fission yeast](/assets/img/Fission_yeast.jpg)
 
 ### Enhancing Lab Protocols with a GUI
-[Jupyer Notebook]
+[Jupyer Notebook](https://github.com/Pa-lillo/HolisticMindHub/blob/main/Projects/GUI4Lab/UI4ChroMo.ipynb)
 
 _Set to be published soon_
 
