@@ -35,7 +35,7 @@ Played a pivotal role in translating **R** scripts to **Python**, utilizing tkin
 
 
 ### Python Script for EEG Data Processing and Visualization
-[Jupyer Notebook]
+[Jupyer Notebook](https://github.com/Pa-lillo/HolisticMindHub/blob/main/Projects/EEGVisualization/PlotEEGRelativePower_Smooth.ipynb)
 
 Developed a versatile **Python** script featuring distinct functions designed to seamlessly import, preprocess, apply a Savitzky-Golay filter, compute errors, and generate visualizations from **Excel** data. The primary objective was to produce a relative power (EEG) plot with smoothing. The protocol is acknowledged in a [published research paper](https://www.sciencedirect.com/science/article/abs/pii/S0378874122005311?via%3Dihub).
 
