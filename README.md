@@ -1,6 +1,6 @@
 # Aspiring Data Scientist
 
-### Technical skills: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn), Excel, CoreIDraw, Prism, SPSS, R
+### Technical skills: Python, Excel, CoreIDraw, Prism, SPSS, R
 
 ## Education 
 - B.Sc., Neuroscience | National Autonomous University of Mexico (UNAM) (_2019-2023_)
@@ -26,6 +26,7 @@ Spearheaded a scientific article focusing on the application of data science and
 
 ### Enhancing Lab Protocols with a GUI
 [Jupyer Notebook]
+
 _Set to be published soon_
 
 Played a pivotal role in translating **R** scripts to **Python**, utilizing tkinter to create a Graphical User Interface (GUI) that offered diverse approaches, significantly improving the user-friendliness of the lab protocols and streamlining the methology. Further contributed to writing the methodology, results, and figures for a book chapter on computational methods. The outcome was a more accessible and efficient protocol, showcasing the fusion of technical translation and scientific communication to advance computational capabilities in the lab.
