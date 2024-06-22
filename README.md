@@ -6,10 +6,30 @@
 - B.Sc., Neuroscience | National Autonomous University of Mexico (UNAM) (_2019-2023_)
 
 ## Experience
+**Consultant - Intelligence & Data Analytics @ Banco Azteca, Grupo Salinas (_Feb 2024 - Present_)**
+*Developed Early Warning System:*
+- Created an early warning system in Python using statistical analysis for key performance indicators (KPIs) of various business units, including transactions, amount, and income.
+- Contributed to significant company profits by identifying trends and anomalies early.
+*Managed Intelligence & Data Analytics*:
+- Led the Intelligence & Data Analytics area, overseeing communication with business units to provide analytical support and enhance their initiatives and campaigns.
+- Fostered collaboration and ensured alignment with business goals.
+*Report and Dashboard Generation*:
+- Generated and maintained comprehensive reports and dashboards in Tableau, tracking essential KPIs to support data-driven decision-making.
+- Ensured data integrity and accuracy through meticulous data wrangling and processing with Python, SQL and R.
+*Process Automation and Optimization*:
+- Assisted in automating processes and optimizing data workflows, handling datasets with millions of records using R, SQL, and Python.
+- Improved efficiency and reduced manual workload by streamlining data operations.
+*Cross-Functional Collaboration*:
+- Collaborated with cross-functional teams to implement innovative data solutions, enhancing overall business performance.
+- Facilitated knowledge sharing and best practices across departments.
+*Presentation of Findings*:
+- Presented findings and insights to directors and managers of various business units, translating complex data into actionable strategies.
+- Strengthened decision-making processes with clear and concise communication of analytical results.
+
 **Data Research Assistant @ Quantitative Biology Laboratory, IBFG-CSIC (_May 2023 - December 2023_)**
 - Led a data science project as the principal author, gaining expertise in microscopy, molecular biology, and data wrangling and analysis using Python. Successfully implemented diverse machine learning models for classification tasks using lab-generated datasets.
 - Directed a research paper by effectively communicating the results of the data science project and presenting visualizations through figures.
-- Developed and implemented a user-friendly Graphical User Interface (GUI) using tkinter, enhancing processing efficiency and methodology in the workplace.
+- Developed and implemented a user-friendly Graphical User Interface (GUI) in Python, enhancing processing efficiency and methodology in the workplace.
   
 **Research Intern @ National Institute of Psychiatry Ramón de la Fuente Muñiz (_January 2022 - May 2023_)**
 - Developed a script to streamline and enhance the plotting protocol in the laboratory.
