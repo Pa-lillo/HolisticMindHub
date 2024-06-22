@@ -7,22 +7,22 @@
 
 ## Experience
 **Consultant - Intelligence & Data Analytics @ Banco Azteca, Grupo Salinas (_Feb 2024 - Present_)**
-*Developed Early Warning System:*
+_Developed Early Warning System_:
 - Created an early warning system in Python using statistical analysis for key performance indicators (KPIs) of various business units, including transactions, amount, and income.
 - Contributed to significant company profits by identifying trends and anomalies early.
-*Managed Intelligence & Data Analytics*:
+_Managed Intelligence & Data Analytics_:
 - Led the Intelligence & Data Analytics area, overseeing communication with business units to provide analytical support and enhance their initiatives and campaigns.
 - Fostered collaboration and ensured alignment with business goals.
-*Report and Dashboard Generation*:
+_Report and Dashboard Generation_:
 - Generated and maintained comprehensive reports and dashboards in Tableau, tracking essential KPIs to support data-driven decision-making.
 - Ensured data integrity and accuracy through meticulous data wrangling and processing with Python, SQL and R.
-*Process Automation and Optimization*:
+_Process Automation and Optimization_:
 - Assisted in automating processes and optimizing data workflows, handling datasets with millions of records using R, SQL, and Python.
 - Improved efficiency and reduced manual workload by streamlining data operations.
-*Cross-Functional Collaboration*:
+_Cross-Functional Collaboration_:
 - Collaborated with cross-functional teams to implement innovative data solutions, enhancing overall business performance.
 - Facilitated knowledge sharing and best practices across departments.
-*Presentation of Findings*:
+_Presentation of Findings_:
 - Presented findings and insights to directors and managers of various business units, translating complex data into actionable strategies.
 - Strengthened decision-making processes with clear and concise communication of analytical results.
 
