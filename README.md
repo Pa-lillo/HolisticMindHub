@@ -1,4 +1,4 @@
-# Aspiring Data Scientist
+# Data Analyst | Aspiring Data Scientist
 
 ### Technical skills: Python, SQL, Tableau, Excel, R, CoreIDraw, Prism, SPSS
 
@@ -7,7 +7,7 @@
 
 ## Experience
 **Data Research Assistant @ Quantitative Biology Laboratory, IBFG-CSIC (_May 2023 - December 2023_)**
-- Led a data science project as the principal author, gaining expertise in microscopy, molecular biology,and data wrangling and analysis using Python. Successfully implemented diverse machine learning models for classification tasks using lab-generated datasets.
+- Led a data science project as the principal author, gaining expertise in microscopy, molecular biology, and data wrangling and analysis using Python. Successfully implemented diverse machine learning models for classification tasks using lab-generated datasets.
 - Directed a research paper by effectively communicating the results of the data science project and presenting visualizations through figures.
 - Developed and implemented a user-friendly Graphical User Interface (GUI) using tkinter, enhancing processing efficiency and methodology in the workplace.
   
