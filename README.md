@@ -1,6 +1,6 @@
 # Data Analyst | Aspiring Data Scientist
 
-### Technical skills: Python, SQL, Tableau, Excel, R, CoreIDraw, Prism, SPSS
+### Technical skills: Python, SQL, Tableau, Excel, R, Cloudera Impala, Vertica
 
 ## Education 
 - B.Sc., Neuroscience | National Autonomous University of Mexico (UNAM) (_2019-2023_)
