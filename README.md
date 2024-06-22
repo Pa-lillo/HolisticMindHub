@@ -1,15 +1,15 @@
 # Aspiring Data Scientist
 
-### Technical skills: Python, Excel, CoreIDraw, Prism, SPSS, R
+### Technical skills: Python, SQL, Tableau, Excel, R, CoreIDraw, Prism, SPSS
 
 ## Education 
 - B.Sc., Neuroscience | National Autonomous University of Mexico (UNAM) (_2019-2023_)
 
 ## Experience
-**Research Intern @ Quantitative Biology Laboratory, IBFG-CSIC (_May 2023 - December 2023_)**
-- Led a data science project as the principal author, gaining expertise in microscopy, molecular biology,and data cleaning and analysis using Python. Successfully implemented diverse machine learningmodels for classification tasks using lab-generated datasets.
-- Directed a research paper by effectively communicating the results of the data science project andpresenting visualizations through figures.
-- Developed and implemented a user-friendly Graphical User Interface (GUI) using tkinter, enhancingprocessing efficiency and methodology in the workplace.
+**Data Research Assistant @ Quantitative Biology Laboratory, IBFG-CSIC (_May 2023 - December 2023_)**
+- Led a data science project as the principal author, gaining expertise in microscopy, molecular biology,and data wrangling and analysis using Python. Successfully implemented diverse machine learning models for classification tasks using lab-generated datasets.
+- Directed a research paper by effectively communicating the results of the data science project and presenting visualizations through figures.
+- Developed and implemented a user-friendly Graphical User Interface (GUI) using tkinter, enhancing processing efficiency and methodology in the workplace.
   
 **Research Intern @ National Institute of Psychiatry Ramón de la Fuente Muñiz (_January 2022 - May 2023_)**
 - Developed a script to streamline and enhance the plotting protocol in the laboratory.
