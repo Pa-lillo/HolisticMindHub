@@ -25,7 +25,8 @@
 
 ## Projects
 ### Client Clustering for Airtime Recharge Optimization
-**Tools: Python, SQL, Pandas, Dask, Scikit-learn, Data Mining, Mathematical Modeling**
+
+**Tools: Python, SQL, Pandas, Dask, Scikit-learn, K-means, Data Mining, Mathematical Modeling**
 - _Objective_: To segment clients based on their airtime recharge behavior and develop targeted campaigns to increase recharge frequency, thereby boosting company revenue.
 - _Data Extraction_: Performed data mining using SQL to extract 30 million records of telephone numbers, recharge amounts, recharge dates, and mobile operators from the database.
 - _Data Preparation_: Conducted data wrangling using Pandas and Dask to clean and prepare the dataset, including the calculation of recharge frequency, a critical variable not originally present.
@@ -35,6 +36,7 @@
 - _Outcome_: The clustering and subsequent analysis provided the business with targeted insights to tailor campaigns, thereby enhancing client engagement and increasing recharge activity across all major mobile operators.
 
 ### Early Warning System for KPI Monitoring
+
 **Tools: Python, SQL, Pandas, Numpy, Tkinter, Statistical Analysis (U-Mann Whitney Test)**
 - _Objective_: To develop an advanced early warning system to monitor and compare key performance indicators (KPIs) such as transactions, amount, and income across different business units in order to identify significant deviations from the previous year's data and provide early notifications of potential issues.
 - _Data Comparison_: The system was designed to compare accumulated data for each week of 2024 to the corresponding week of 2023.
@@ -45,31 +47,40 @@
 - _Data Handling_: SQL was used to extract relevant data from the database, Pandas for data import and manipulation within Python, and Numpy for performing the necessary calculations.
 - _Outcome_: This early warning system significantly enhanced the company's ability to proactively manage its operations, allowing for quicker responses to emerging trends and contributing to the company’s overall profitability by preventing potential losses and identifying growth opportunities in real-time.
 
-### Strain Classification of Fission Yeast using Machine Learning
+### Fission Yeast Strain Classification using Machine Learning
 _Set to be published soon_
 
-Spearheaded a scientific article focusing on the application of data science and machine learning to classify strains of fission yeast, covering both control and mutant strains. Managed tasks such as data cleaning, strain selection, and hyperparameter tuning using **Python**. The methodology included processing microscopy movies, extracting various features, and evaluating machine learning models. The Random Forest model excelled in binary classification, leading to its selection for multiclass classification. The project achieved over 75% accuracy in categorizing strains and underwent successful testing with new data. Contributed to drafting the scientific article, emphasizing methodology, results, and discussion. The ultimate goal is to translate this methodology for broader applications in different experimental models and labs.
+**Tools: Python, Random Forest, Microscopy, Data Wrangling, Feature Extraction, Hyperparameter Tuning**
+- _Objective_: To develop and execute a project aimed at applying data science and machine learning techniques to classify strains of fission yeast, both control and mutant strains. The ultimate goal was to establish a reliable methodology that could be adapted and applied to different experimental models and laboratories.
+- _Data Preparation_: Initiated the project by carefully selecting relevant strains and cleaning the raw data to ensure accuracy and reliability. This process involved processing microscopy movies to extract meaningful features that could be used for model training. Data cleaning included handling missing values, correcting errors, and standardizing the data for consistent analysis.
+- _Feature Extraction_: Implemented a pipeline for extracting diverse features from microscopy images that were crucial for distinguishing between different yeast strains. These features were derived from image properties such as shape, intensity, speed, and other relevant metrics.
+- _Machine Learning Model Development_: Explored various machine learning models for the classification task, with a particular focus on binary classification. The Random Forest model was identified as the best-performing model for this task, demonstrating superior accuracy and robustness in classifying the control and mutant strains.
+- _Hyperparameter Tuning_: Applied hyperparameter tuning techniques to optimize the Random Forest model, ensuring the highest possible accuracy and generalizability of the results. This step involved testing different combinations of parameters and selecting the best configuration.
+- _Transition to Multiclass Classification_: Expanded the scope of the model to handle multiclass classification, where it was tasked with categorizing multiple yeast strains. The model achieved over 75% accuracy in this more complex task, successfully distinguishing between the different strains.
+- _Evaluation and Validation_: The model was rigorously tested with new, unseen data to validate its performance. The high accuracy rate demonstrated the model’s effectiveness and potential for broader application.
+- _Scientific Communication_: Played a key role in drafting the scientific article that documented the entire project. Focusing on detailing the methodology, discussing the results, and outlining the significance of the findings. The article also emphasized the potential for translating this methodology to other experimental models.
+- _Impact and Future Applications_: The project not only provided valuable insights into yeast strain classification but also laid the groundwork for applying similar methodologies in other research areas. The success of the model in this context suggests its potential utility in a wide range of biological and biomedical research projects.
 
 ![Fission yeast](/assets/img/Fission_yeast.jpg)
 
-### Enhancing Lab Protocols with a GUI
+### GUI Development for Enhanced Lab Protocols
+
 [Jupyer Notebook](https://github.com/Pa-lillo/HolisticMindHub/blob/main/Projects/GUI4Lab/UI4ChroMo.ipynb)
+
+**Tools: Python, Tkinter, R, GUI Development, Scientific Writing, Computational Methods**
+- _Objective_: To translate existing R scripts into Python, with the goal of enhancing the usability and efficiency of lab protocols. The project focused on creating a Graphical User Interface (GUI) using Tkinter to make the computational methods more accessible to lab members, particularly those without programming expertise.
+- _Script Translation and Optimization_: Undertook the critical task of translating complex R scripts into Python, ensuring that all functionalities were preserved or improved. This process involved a deep understanding of both programming languages and their respective libraries, allowing for a seamless transition that maintained the integrity of the original methods.
+_GUI Development_: Leveraged Tkinter to design and develop a user-friendly GUI that offered diverse approaches to the lab’s computational tasks. The GUI provided an intuitive interface for users to interact with the underlying Python scripts, significantly improving the accessibility of the lab’s computational methods. By simplifying the workflow, the GUI empowered lab members to perform complex analyses without needing extensive programming knowledge.
+_Methodology Enhancement_: Through the GUI, the lab’s methodology was streamlined and refined, reducing the complexity of data processing tasks and minimizing the potential for human error.
+_Scientific Communication_: Played a substantial role in contributing to the writing of the methodology, results, and figures for a book chapter on computational methods.
+_Outcome and Impact_: The project resulted in a more accessible and efficient protocol that not only enhanced the lab’s computational capabilities but also demonstrated the power of technical translation and scientific communication. The success of the project was encapsulated in the published book chapter, which serves as a valuable resource for other researchers seeking to implement similar methods in their own work.
+_Advancing Computational Methods_: By combining technical expertise in programming with a commitment to improving lab workflows, this project underscored the importance of interdisciplinary approaches in advancing scientific research. The GUI and translated scripts are now integral tools within the lab, contributing to more streamlined and effective research processes.
 
 [Identifying Chromosome Movement Patterns During Meiosis Using ChroMo](https://pubmed.ncbi.nlm.nih.gov/39126481/)
 
-Played a pivotal role in translating **R** scripts to **Python**, utilizing tkinter to create a Graphical User Interface (GUI) that offered diverse approaches, significantly improving the user-friendliness of the lab protocols and streamlining the methology. Further contributed to writing the methodology, results, and figures for a book chapter on computational methods. The outcome was a more accessible and efficient protocol, showcasing the fusion of technical translation and scientific communication to advance computational capabilities in the lab.
-
 ![GUI for Lab Protocol](/assets/img/UI4Chromo.png)
 
-
-### Python Script for EEG Data Processing and Visualization
-[Jupyer Notebook](https://github.com/Pa-lillo/HolisticMindHub/blob/main/Projects/EEGVisualization/PlotEEGRelativePower_Smooth.ipynb)
-
-Developed a versatile **Python** script featuring distinct functions designed to seamlessly import, preprocess, apply a Savitzky-Golay filter, compute errors, and generate visualizations from **Excel** data. The primary objective was to produce a relative power (EEG) plot with smoothing. The protocol is acknowledged in a [published research paper](https://www.sciencedirect.com/science/article/abs/pii/S0378874122005311?via%3Dihub).
-
-![Human EEG](/assets/img/eeg_human.webp)
-
-###  Exploratory Data Analysis and Prediction of Lego Set Trends
+###  Comprehensive Analysis and Forecasting of Lego Sets
 [Jupyer Notebook](https://github.com/Pa-lillo/HolisticMindHub/blob/main/Projects/LegoSetsAnalysis/LegoThemesProject.ipynb)
 
 Conducted a comprehensive analysis of Lego sets spanning from 1950 to 2017 utilizing **Python**. The process encompassed data exploration, cleaning, visualization, and analytical tasks. Specific analyses included determining the percentage of licensed sets, identifying the most popular sets by year, assessing the number of unique sets, and calculating the average number of blocks released annually. The project culminated in the implementation of a polynomial regression model to predict the number of unique sets and average blocks expected for the years 2018-2030.
