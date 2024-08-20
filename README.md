@@ -24,6 +24,27 @@
 - Conducted mouse surgeries and analyzed electroencephalogram recordings using MATLAB, Prism, and SPSS.
 
 ## Projects
+### Client Clustering for Airtime Recharge Optimization
+**Tools: Python, SQL, Pandas, Dask, Scikit-learn, Data Mining, Mathematical Modeling**
+- _Objective_: To segment clients based on their airtime recharge behavior and develop targeted campaigns to increase recharge frequency, thereby boosting company revenue.
+- _Data Extraction_: Performed data mining using SQL to extract 30 million records of telephone numbers, recharge amounts, recharge dates, and mobile operators from the database.
+- _Data Preparation_: Conducted data wrangling using Pandas and Dask to clean and prepare the dataset, including the calculation of recharge frequency, a critical variable not originally present.
+- _Exploratory Data Analysis_: Utilized descriptive statistics and frequency distributions to gain insights into client behavior and guide model selection.
+- _Model Implementation_: Applied the K-means clustering algorithm using Scikit-learn, which resulted in the identification of four distinct client clusters.
+- _Revenue Modeling_: Developed a mathematical model to project potential revenue increases by applying different conversion rates to each client cluster based on their recharge patterns.
+- _Outcome_: The clustering and subsequent analysis provided the business with targeted insights to tailor campaigns, thereby enhancing client engagement and increasing recharge activity across all major mobile operators.
+
+### Early Warning System for KPI Monitoring
+**Tools: Python, SQL, Pandas, Numpy, Tkinter, Statistical Analysis (U-Mann Whitney Test)**
+- _Objective_: To develop an advanced early warning system to monitor and compare key performance indicators (KPIs) such as transactions, amount, and income across different business units in order to identify significant deviations from the previous year's data and provide early notifications of potential issues.
+- _Data Comparison_: The system was designed to compare accumulated data for each week of 2024 to the corresponding week of 2023.
+- _Percentage Change Calculation_: The system calculates the percentage change for each KPI between the two years. If the difference exceeds a predefined threshold (usually 50%), the system flags this in the early warning dashboard, indicating that the particular field requires attention.
+- _Statistical Significance Testing_: To ensure that the observed differences were not due to random variation, the U-Mann Whitney statistical test was applied. This non-parametric test compared the weekly distributions of the KPIs from both years, allowing to assess whether the differences were statistically significant (using the P-value).
+- _Weekly Streak Calculation_: The system also tracked the weekly streak of each field, calculating how many consecutive weeks a particular field had shown a similar trend (either positive or negative). This feature helped in identifying persistent trends that required intervention.
+- _GUI Development_: All the functionalities were integrated into a user-friendly Graphical User Interface (GUI) developed using Python's Tkinter library. The GUI provided easy access to the early warning system, enabling business users to quickly identify and address issues without needing to dive into complex data analysis.
+- _Data Handling_: SQL was used to extract relevant data from the database, Pandas for data import and manipulation within Python, and Numpy for performing the necessary calculations.
+- _Outcome_: This early warning system significantly enhanced the company's ability to proactively manage its operations, allowing for quicker responses to emerging trends and contributing to the company’s overall profitability by preventing potential losses and identifying growth opportunities in real-time.
+
 ### Strain Classification of Fission Yeast using Machine Learning
 _Set to be published soon_
 
