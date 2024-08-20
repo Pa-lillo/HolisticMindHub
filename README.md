@@ -1,4 +1,4 @@
-# Data Analyst | Aspiring Data Scientist
+# Data Analyst | Data Scientist
 
 ### Technical skills: Python, SQL, Tableau, Excel, R, Cloudera Impala, Vertica
 
@@ -7,40 +7,21 @@
 
 ## Experience
 **Consultant - Intelligence & Data Analytics @ Banco Azteca, Grupo Salinas (_Feb 2024 - Present_)**
-
-_Developed Early Warning System_:
-- Created an early warning system in Python using statistical analysis for key performance indicators (KPIs) of various business units, including transactions, amount, and income.
-- Contributed to significant company profits by identifying trends and anomalies early.
-
-_Managed Intelligence & Data Analytics_:
-- Led the Intelligence & Data Analytics area, overseeing communication with business units to provide analytical support and enhance their initiatives and campaigns.
-- Fostered collaboration and ensured alignment with business goals.
-
-_Report and Dashboard Generation_:
-- Generated and maintained comprehensive reports and dashboards in Tableau, tracking essential KPIs to support data-driven decision-making.
-- Ensured data integrity and accuracy through meticulous data wrangling and processing with Python, SQL and R.
-
-_Process Automation and Optimization_:
-- Assisted in automating processes and optimizing data workflows, handling datasets with millions of records using R, SQL, and Python.
-- Improved efficiency and reduced manual workload by streamlining data operations.
-
-_Cross-Functional Collaboration_:
-- Collaborated with cross-functional teams to implement innovative data solutions, enhancing overall business performance.
-- Facilitated knowledge sharing and best practices across departments.
-
-_Presentation of Findings_:
-- Presented findings and insights to directors and managers of various business units, translating complex data into actionable strategies.
-- Strengthened decision-making processes with clear and concise communication of analytical results.
+- Implemented an unsupervised clustering algorithm to create client profiles, enabling the development of targeted campaigns to increase transactions and income.
+-  Developed an early warning system in Python, leveraging statistical analysis to monitor KPIs and significantly boost profits.
+- Managed the Intelligence & Data Analytics area, providing crucial analytical support to enhance business unit initiatives and campaigns.
+- Generated and maintained reports and dashboards in Tableau, ensuring data-driven decision-making through accurate KPI tracking.
+- Automated and optimized data workflows for large datasets, improving efficiency and reducing manual processes using R, SQL, and Python.
+- Collaborated with cross-functional teams to implement innovative data solutions, driving overall business performance.
+- Presented actionable insights to directors and managers, translating complex data into clear strategies.
 
 **Data Research Assistant @ Quantitative Biology Laboratory, IBFG-CSIC (_May 2023 - December 2023_)**
-- Led a data science project as the principal author, gaining expertise in microscopy, molecular biology, and data wrangling and analysis using Python. Successfully implemented diverse machine learning models for classification tasks using lab-generated datasets.
-- Directed a research paper by effectively communicating the results of the data science project and presenting visualizations through figures.
-- Developed and implemented a user-friendly Graphical User Interface (GUI) in Python, enhancing processing efficiency and methodology in the workplace.
+- Led a data science project, implementing machine learning models for classification tasks and developing a user-friendly Python GUI to streamline processing.
+- Authored and directed a research paper, effectively communicating results and visualizations to the scientific community.
   
 **Research Intern @ National Institute of Psychiatry Ramón de la Fuente Muñiz (_January 2022 - May 2023_)**
-- Developed a script to streamline and enhance the plotting protocol in the laboratory.
-- Conducted data entry and database management in Excel.
-- Executed mouse surgeries and performed electroencephalogram recordings and analyses using MATLAB, Prism, and SPSS.
+- Enhanced laboratory processes by developing a script for streamlined plotting protocols and managing data in Excel.
+- Conducted mouse surgeries and analyzed electroencephalogram recordings using MATLAB, Prism, and SPSS.
 
 ## Projects
 ### Strain Classification of Fission Yeast using Machine Learning
@@ -52,8 +33,7 @@ Spearheaded a scientific article focusing on the application of data science and
 
 ### Enhancing Lab Protocols with a GUI
 [Jupyer Notebook](https://github.com/Pa-lillo/HolisticMindHub/blob/main/Projects/GUI4Lab/UI4ChroMo.ipynb)
-
-_Set to be published soon_
+[Published Research Paper](https://pubmed.ncbi.nlm.nih.gov/39126481/))
 
 Played a pivotal role in translating **R** scripts to **Python**, utilizing tkinter to create a Graphical User Interface (GUI) that offered diverse approaches, significantly improving the user-friendliness of the lab protocols and streamlining the methology. Further contributed to writing the methodology, results, and figures for a book chapter on computational methods. The outcome was a more accessible and efficient protocol, showcasing the fusion of technical translation and scientific communication to advance computational capabilities in the lab.
 
