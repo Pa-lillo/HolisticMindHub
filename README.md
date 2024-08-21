@@ -81,8 +81,19 @@ _Set to be published soon_
 ![GUI for Lab Protocol](/assets/img/UI4Chromo.png)
 
 ###  Comprehensive Analysis and Forecasting of Lego Sets
+
 [Jupyer Notebook](https://github.com/Pa-lillo/HolisticMindHub/blob/main/Projects/LegoSetsAnalysis/LegoThemesProject.ipynb)
 
-Conducted a comprehensive analysis of Lego sets spanning from 1950 to 2017 utilizing **Python**. The process encompassed data exploration, cleaning, visualization, and analytical tasks. Specific analyses included determining the percentage of licensed sets, identifying the most popular sets by year, assessing the number of unique sets, and calculating the average number of blocks released annually. The project culminated in the implementation of a polynomial regression model to predict the number of unique sets and average blocks expected for the years 2018-2030.
+**Tools: Python, Pandas, Data Visualization, Data Cleaning, Polynomial Regression, Predictive Modeling**
+
+- _Objective_: To analyze the trends and evolution of Lego sets released between 1950 and 2017, focusing on key aspects such as the percentage of licensed sets, yearly popularity, unique set counts, and the average number of blocks per set. The project also aimed to forecast these trends from 2018 to 2030 using predictive modeling.
+- _Data Exploration and Cleaning_: Utilized Python to import, clean, and prepare the Lego sets dataset, ensuring data accuracy by addressing missing values, inconsistencies, and outliers. This preparatory work laid a solid foundation for reliable analysis and visualization.
+-_Analytical Insights_: Conducted a comprehensive analysis of the Lego sets over time, identifying key metrics such as the percentage of licensed sets and the most popular sets each year.
+Assessed the trends in the number of unique sets and the average number of blocks released annually, providing insights into Lego's evolving product offerings.
+- _Predictive Modeling_: Developed and implemented a polynomial regression model to forecast future trends in the number of unique Lego sets and the average number of blocks for the years 2018 to 2030. The model was trained on historical data, offering predictions to guide future expectations.
+- _Visualization_: Created a series of data visualizations to represent the historical trends and forecasted outcomes clearly. These visualizations helped distill complex data into understandable insights, facilitating decision-making and strategy development.
+- _Outcome and Impact_: The project provided detailed insights into the historical trends of Lego sets and offered valuable forecasts for the future, enabling stakeholders to make informed decisions based on data-driven predictions. The analysis highlighted the evolving nature of Lego's product lines, offering a comprehensive understanding of the factors influencing Lego's market presence over time.
+
+
 
 ![LEGO](/assets/img/lego_blocks.jpg)
