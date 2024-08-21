@@ -35,6 +35,9 @@
 - _Revenue Modeling_: Developed a mathematical model to project potential revenue increases by applying different conversion rates to each client cluster based on their recharge patterns.
 - _Outcome_: The clustering and subsequent analysis provided the business with targeted insights to tailor campaigns, thereby enhancing client engagement and increasing recharge activity across all major mobile operators.
 
+![Clusters](/assets/img/TAClusters.png)
+![Potential Income](/assets/img/TAPotentialIncome.png)
+
 ### Early Warning System for KPI Monitoring
 
 **Tools: Python, SQL, Pandas, Numpy, Tkinter, Statistical Analysis (U-Mann Whitney Test)**
@@ -46,8 +49,6 @@
 - _GUI Development_: All the functionalities were integrated into a user-friendly Graphical User Interface (GUI) developed using Python's Tkinter library. The GUI provided easy access to the early warning system, enabling business users to quickly identify and address issues without needing to dive into complex data analysis.
 - _Data Handling_: SQL was used to extract relevant data from the database, Pandas for data import and manipulation within Python, and Numpy for performing the necessary calculations.
 - _Outcome_: This early warning system significantly enhanced the company's ability to proactively manage its operations, allowing for quicker responses to emerging trends and contributing to the company’s overall profitability by preventing potential losses and identifying growth opportunities in real-time.
-
-![Clusters](/assets/img/UI4Chromo.png)
 
 ### Fission Yeast Strain Classification using Machine Learning
 _Set to be published soon_
