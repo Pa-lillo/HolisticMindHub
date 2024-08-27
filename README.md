@@ -50,6 +50,8 @@
 - _Data Handling_: SQL was used to extract relevant data from the database, Pandas for data import and manipulation within Python, and Numpy for performing the necessary calculations.
 - _Outcome_: This early warning system significantly enhanced the company's ability to proactively manage its operations, allowing for quicker responses to emerging trends and contributing to the company’s overall profitability by preventing potential losses and identifying growth opportunities in real-time.
 
+![GUI-EarlyWarnings](/assets/img/GUI-EarlyWarnings.jpeg)
+
 ### Fission Yeast Strain Classification using Machine Learning
 _Set to be published soon_
 
