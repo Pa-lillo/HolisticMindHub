@@ -1,4 +1,4 @@
-# Data Analyst | Data Scientist
+# Data Analysis | Data Science Manager
 
 ### Technical skills: Python, SQL, Tableau, Excel, R, Cloudera Impala, Vertica
 
