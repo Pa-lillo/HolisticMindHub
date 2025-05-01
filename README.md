@@ -7,50 +7,54 @@
 
 ## Experience
 **Data Intelligence & Analytics Manager @ Banco Azteca, Grupo Salinas (_Sep 2024 - Present_)**
+
 ✅ Drive Strategy with Insights
-Lead analytics team to optimize marketing and business performance.
+- Lead analytics team to optimize marketing and business performance.
 
 📊 Build Dynamic Dashboards
-Design Tableau tools to monitor KPIs and enable smart decisions.
+- Design Tableau tools to monitor KPIs and enable smart decisions.
 
 🤝 Engineer Scalable Solutions
-Collaborate across teams to deploy efficient, growth-driven systems.
+- Collaborate across teams to deploy efficient, growth-driven systems.
 
 📈 Influence Leadership with Data
-Present clear, actionable insights to executive stakeholders.
+- Present clear, actionable insights to executive stakeholders.
 
 🗺️ Map Data for Targeting
-Develop geospatial pipelines for precise audience segmentation.
+- Develop geospatial pipelines for precise audience segmentation.
 
 💡 Deliver Cost Savings
-Apply advanced analytics to reduce expenses while preserving value.
+- Apply advanced analytics to reduce expenses while preserving value.
 
 **Consultant - Data Intelligence & Analytics @ Banco Azteca, Grupo Salinas (_Feb 2024 - Sep 2024_)**
+
 🧠 Enabled Targeted Campaigns
-Implemented clustering to create customer profiles, boosting transactions and revenue.
+- Implemented clustering to create customer profiles, boosting transactions and revenue.
 
 ⚠️ Built Early Warning System
-Developed statistical alerts in Python, driving profit increases across business units.
+- Developed statistical alerts in Python, driving profit increases across business units.
 
 🧹 Cleaned & Processed Data
-Handled large-scale wrangling in SQL, Python, and R for accurate reporting.
+- Handled large-scale wrangling in SQL, Python, and R for accurate reporting.
 
 ⚙️ Optimized Data Workflows
-Automated processes for massive datasets, improving efficiency and scalability.
+- Automated processes for massive datasets, improving efficiency and scalability.
 
 **Data Research Assistant @ Quantitative Biology Laboratory, IBFG-CSIC (_May 2023 - December 2023_)**
+
 🧪 Led End-to-End Data Science Project
-Built classification models and a Python GUI to streamline processing.
+- Built classification models and a Python GUI to streamline processing.
 
 📄 Published Research Findings
-Authored and visualized results in a peer-reviewed scientific paper.
+- Authored and visualized results in a peer-reviewed scientific paper.
   
 **Research Intern @ National Institute of Psychiatry Ramón de la Fuente Muñiz (_January 2022 - May 2023_)**
+
 🧬 Optimized Lab Workflow
-Developed a Python script for plotting and managed data in Excel.
+- Developed a Python script for plotting and managed data in Excel.
 
 🧠 Conducted Neuroscience Experiments
-Performed mouse surgeries and EEG analysis using MATLAB, Prism, and SPSS.
+- Performed mouse surgeries and EEG analysis using MATLAB, Prism, and SPSS.
 
 ## Projects
 ### Client Clustering for Airtime Recharge Optimization
