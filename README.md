@@ -6,14 +6,19 @@
 - B.Sc., Neuroscience | National Autonomous University of Mexico (UNAM) (_2019-2023_)
 
 ## Experience
-**Consultant - Intelligence & Data Analytics @ Banco Azteca, Grupo Salinas (_Feb 2024 - Present_)**
-- Implemented an unsupervised clustering algorithm to create client profiles, enabling the development of targeted campaigns to increase transactions and income.
--  Developed an early warning system in Python, leveraging statistical analysis to monitor KPIs and significantly boost profits.
-- Managed the Intelligence & Data Analytics area, providing crucial analytical support to enhance business unit initiatives and campaigns.
-- Generated and maintained reports and dashboards in Tableau, ensuring data-driven decision-making through accurate KPI tracking.
-- Automated and optimized data workflows for large datasets, improving efficiency and reducing manual processes using R, SQL, and Python.
-- Collaborated with cross-functional teams to implement innovative data solutions, driving overall business performance.
-- Presented actionable insights to directors and managers, translating complex data into clear strategies.
+**Data Intelligence & Analytics Manager @ Banco Azteca, Grupo Salinas (_Sep 2024 - Present_)**
+- Led the Intelligence & Data Analytics team, delivering actionable insights to optimize marketing campaigns and business initiatives through close collaboration with stakeholders.
+- Developed and maintained interactive Tableau dashboards, enabling data-driven decisions by tracking KPIs and performance metrics across departments.
+- Partnered with cross-functional teams to design and deploy scalable data solutions, driving operational efficiency and business growth.
+- Presented data-driven insights to executives, translating complex findings into clear, strategic recommendations to guide decision-making.
+- Built geospatial and demographic data pipelines, enhancing marketing targeting and strategic planning for leadership.
+- Identified cost-saving opportunities through advanced analytics, reducing expenses for a core product while maintaining performance.
+
+**Consultant - Data Intelligence & Analytics @ Banco Azteca, Grupo Salinas (_Feb 2024 - Sep 2024_)**
+- Implemented an unsupervised clustering algorithm to create customer profiles, enabling targeted campaigns that increased transactions and revenue for a key product.
+- Developed an early warning system in Python using statistical analysis for KPIs of various business units, significantly boosting company profits.
+- Performed data wrangling and processing using SQL, Python and R to ensure accurate and reliable reports and dashboards.
+- Assisted in automating processes and optimizing data workflows for datasets with millions of recordsusing SQL, Python and R.
 
 **Data Research Assistant @ Quantitative Biology Laboratory, IBFG-CSIC (_May 2023 - December 2023_)**
 - Led a data science project, implementing machine learning models for classification tasks and developing a user-friendly Python GUI to streamline processing.
