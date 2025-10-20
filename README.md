@@ -1,6 +1,6 @@
-# Data Analysis | Data Science Manager
+# Data Analyst | Data Scientist
 
-### Technical skills: Python, SQL, Tableau, Excel, R, Cloudera Impala, Vertica
+### Technical skills: Python, SQL, Tableau, Excel, R, Power BI
 
 ## Education 
 - B.Sc., Neuroscience | National Autonomous University of Mexico (UNAM) (_2019-2023_)
