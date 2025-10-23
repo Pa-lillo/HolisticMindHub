@@ -6,7 +6,23 @@
 - B.Sc., Neuroscience | National Autonomous University of Mexico (UNAM) (_2019-2023_)
 
 ## Experience
-**Data Intelligence & Analytics Manager @ Banco Azteca, Grupo Salinas (_Sep 2024 - Present_)**
+**Senior Strategy & Data Analyst @ DiDi (_Aug 2025 - Present_)**
+🚀 Power Growth Through Data Strategy
+- Lead data-driven initiatives that optimize performance and guide strategic decision-making across LATAM markets.
+
+📊 Build Intelligent Analytics Systems
+- Develop automated dashboards, pipelines, and predictive models to monitor KPIs and identify growth opportunities.
+
+🤝 Enable Cross-Functional Impact
+- Partner with product, commercial, and data teams to design scalable solutions that improve efficiency and execution.
+
+💡 Translate Data Into Strategy
+- Deliver actionable insights that shape business direction and support leadership in key decisions.
+
+⚙️ Automate for Excellence
+- Streamline workflows and reporting processes, ensuring speed, accuracy, and consistency in performance tracking.
+
+**Data Intelligence & Analytics Manager @ Banco Azteca, Grupo Salinas (_Sep 2024 - Aug 2025_)**
 
 ✅ Drive Strategy with Insights
 - Lead analytics team to optimize marketing and business performance.
