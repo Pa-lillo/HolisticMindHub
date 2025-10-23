@@ -7,6 +7,7 @@
 
 ## Experience
 **Senior Strategy & Data Analyst @ DiDi (_Aug 2025 - Present_)**
+
 🚀 Power Growth Through Data Strategy
 - Lead data-driven initiatives that optimize performance and guide strategic decision-making across LATAM markets.
 
